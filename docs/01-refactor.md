@@ -12,6 +12,8 @@ Your main task is to refactor this code to use React Router.
 4. Refactor `<App>` to use a layout route and define the appropriate routes within.
 5. Refactor `<Layout>`, `<Navbar>`, `<Register>`, and `<Login>` to use the appropriate
    components and hooks from `react-router` instead of `PageContext`.
+
+
 6. Build a new component to use as the page for details about a single activity.
    - Each activity in `<ActivityList>` should link to its own page.
    - On that page, the activity's name, description, and creator name should be displayed.
